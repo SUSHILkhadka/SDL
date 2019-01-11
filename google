@@ -1,0 +1,2 @@
+git pull --allow-unrelated-histories nothing master
+git push -u nothing master
